@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.dll
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.pdb
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.dll
+c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.pdb
