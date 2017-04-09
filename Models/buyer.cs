@@ -1,10 +1,13 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BestBidEnergy.Models
 {
+    [Table("BUYER")]
     public class buyer
     {
+        [Key]
         [Required]
         [StringLength(255)]
         public string Username { get; set; }
@@ -18,13 +21,13 @@ namespace BestBidEnergy.Models
         public string Company { get; set; }
         [Required]
         [StringLengthAttribute(255)]
-        public string AccountNum { get; set; }
+        public string Account_Num { get; set; }
         [Required]
         [StringLengthAttribute(255)]
-        public string AccountType {get; }
-        public int CreditRating {get; set;}
+        public string Account_Type {get; set;}
+        public int Credit_Rating {get; set;}
          [Required]
         [StringLengthAttribute(150)]
-        public string ContactName {get; set;}
+        public string Contact_Name {get; set;}
     }
 }

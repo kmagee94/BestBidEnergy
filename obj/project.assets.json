@@ -10761,16 +10761,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\3610 Foundations\\BestBidEnergy\\BestBIdEnergy.csproj",
+      "projectUniqueName": "C:\\3610 Foundations\\BestBidEnergy\\BestBIdEnergy.csproj",
       "projectName": "BestBidEnergy",
-      "projectPath": "c:\\3610 Foundations\\BestBidEnergy\\BestBIdEnergy.csproj",
-      "outputPath": "c:\\3610 Foundations\\BestBidEnergy\\obj\\",
+      "projectPath": "C:\\3610 Foundations\\BestBidEnergy\\BestBIdEnergy.csproj",
+      "outputPath": "C:\\3610 Foundations\\BestBidEnergy\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/BestBidEnergy.dll": "c:\\3610 Foundations\\BestBidEnergy\\bin\\placeholder\\netcoreapp1.1\\BestBidEnergy.dll"
+        "lib/netcoreapp1.1/BestBidEnergy.dll": "C:\\3610 Foundations\\BestBidEnergy\\bin\\placeholder\\netcoreapp1.1\\BestBidEnergy.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

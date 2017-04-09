@@ -1,10 +1,13 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BestBidEnergy.Models
 {
+    [Table("CONTRACTS")]
     public class contracts
     {
+        [Key]
         [Required]
         [MaxLength(1000000)]        
         public int ContractId { get; set; }

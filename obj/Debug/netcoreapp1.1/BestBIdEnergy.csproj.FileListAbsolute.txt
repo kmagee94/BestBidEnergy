@@ -7,3 +7,12 @@ c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy
 c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\bin\Debug\netcoreapp1.1\BestBIdEnergy.pdb
 c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.dll
 c:\users\admin\documents\visual studio 2017\Projects\BestBIdEnergy\BestBIdEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.pdb
+C:\3610 Foundations\BestBidEnergy\bin\Debug\netcoreapp1.1\BestBidEnergy.deps.json
+C:\3610 Foundations\BestBidEnergy\bin\Debug\netcoreapp1.1\BestBidEnergy.runtimeconfig.json
+C:\3610 Foundations\BestBidEnergy\bin\Debug\netcoreapp1.1\BestBidEnergy.runtimeconfig.dev.json
+C:\3610 Foundations\BestBidEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.csprojResolveAssemblyReference.cache
+C:\3610 Foundations\BestBidEnergy\obj\Debug\netcoreapp1.1\BestBIdEnergy.AssemblyInfo.cs
+C:\3610 Foundations\BestBidEnergy\obj\Debug\netcoreapp1.1\BestBidEnergy.dll
+C:\3610 Foundations\BestBidEnergy\obj\Debug\netcoreapp1.1\BestBidEnergy.pdb
+C:\3610 Foundations\BestBidEnergy\bin\Debug\netcoreapp1.1\BestBidEnergy.dll
+C:\3610 Foundations\BestBidEnergy\bin\Debug\netcoreapp1.1\BestBidEnergy.pdb

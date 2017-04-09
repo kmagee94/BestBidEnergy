@@ -1,10 +1,13 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BestBidEnergy.Models
 {
+    [Table("SUPPLIER")]
     public class supplier
     {
+        [Key]
         [Required]
         [StringLength(255)]
         public string Username { get; set; }

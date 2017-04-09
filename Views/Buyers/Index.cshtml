@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<BestBidEnergy.Models.buyer>
+@{
     ViewBag.Title = "Index";
 }
 <h2>Home</h2>
@@ -7,3 +8,8 @@
     <li role="presentation"><a href="/Buyers/Contracts">Contracts</a></li>
     <li role="presentation"><a href="/Buyers/Profile">Profile</a></li>
 </ul>
+
+@foreach (var item in @Model)
+ {
+    <h2>User: @item.Username</h2>
+}
