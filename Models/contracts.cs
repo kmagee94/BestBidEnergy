@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BestBidEnergy.Models
 {
-    public class contract
+    public class contracts
     {
         [Required]
         [MaxLength(1000000)]        
@@ -33,7 +33,7 @@ namespace BestBidEnergy.Models
         [StringLength(255)]
         public DateTime StartDate {get; set;}
         [Required]
-        public DateTime EndDate {get; Set;}
+        public DateTime EndDate {get; set;}
         [Required]
         public decimal AvgkWh {get; set;}
         [Required]

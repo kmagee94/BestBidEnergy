@@ -11,6 +11,7 @@ namespace BestBidEnergy.Models
         [Required]
         [StringLength(255)]
         public string Email { get; set; }
+    
         [StringLengthAttribute(255)]
         public string Phone { get; set; }
         [StringLength(255)]
